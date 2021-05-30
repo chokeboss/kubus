@@ -1,0 +1,96 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kubus.eth.link" resolutions="1x" timestamp="1622413152432">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="151434501" ref="posters:climate-change:national-debt:conspiracy:culture:index:fake-news:social-media"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="posters:climate-change:national-debt:conspiracy:culture:index:fake-news:social-media"/>
+    <file name="posters.css" crc="4220194341" ref="posters"/>
+    <file name="climate-change.css" crc="4220194341" ref="climate-change"/>
+    <file name="national-debt.css" crc="4220194341" ref="national-debt"/>
+    <file name="conspiracy.css" crc="4220194341" ref="conspiracy"/>
+    <file name="culture.css" crc="4220194341" ref="culture"/>
+    <file name="index.css" crc="3929216444" ref="index"/>
+    <file name="nomq_index.css" crc="3883829727" ref="index"/>
+    <file name="fake-news.css" crc="4220194341" ref="fake-news"/>
+    <file name="social-media.css" crc="4220194341" ref="social-media"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:posters:social-media:national-debt:culture:fake-news:climate-change:conspiracy"/>
+    <file name="museutils.js" crc="3939489907" ref="index:posters:social-media:national-debt:culture:fake-news:climate-change:conspiracy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:posters:social-media:national-debt:culture:fake-news:climate-change:conspiracy"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:posters:social-media:national-debt:culture:fake-news:climate-change:conspiracy"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:posters:social-media:national-debt:culture:fake-news:climate-change:conspiracy"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:posters:social-media:national-debt:culture:fake-news:climate-change:conspiracy"/>
+  </folder>
+  <folder name="images">
+    <file name="pattern-kubus-45 (1).jpg" crc="201677368" seo="true" ref="index:posters:social-media:national-debt:culture:fake-news:climate-change:conspiracy">
+      <caption webpage="culture" alt=""/>
+      <caption webpage="fake-news" alt=""/>
+      <caption webpage="national-debt" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="conspiracy" alt=""/>
+      <caption webpage="climate-change" alt=""/>
+      <caption webpage="posters" alt=""/>
+      <caption webpage="social-media" alt=""/>
+    </file>
+    <file name="u996-13.png" crc="292193856" ref="index:posters:social-media:national-debt:culture:fake-news:climate-change:conspiracy"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="plakat_qr-59-crop-u109.jpg" crc="4241147972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u969-4.png" crc="276923573" ref="index"/>
+    <file name="plakat_qr-49-crop-u906.jpg" crc="535721244" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u972-6.png" crc="274841829" ref="index"/>
+    <file name="plakat_qr-51-crop-u916.jpg" crc="3962386068" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u981-6.png" crc="3945187793" ref="index"/>
+    <file name="plakat_qr-53-crop-u926.jpg" crc="4113575701" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u984-4.png" crc="3863649801" ref="index"/>
+    <file name="plakat_qr-55-crop-u936.jpg" crc="3986098237" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u987-4.png" crc="509122733" ref="index"/>
+    <file name="plakat_qr-57-crop-u946.jpg" crc="319856207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u990-6.png" crc="4067868193" ref="index"/>
+    <file name="plakat_qr-59-crop-u1092.jpg" crc="134987937" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u969-42.png" crc="325999485" ref="index"/>
+    <file name="plakat_qr-49-crop-u9062.jpg" crc="20778370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u972-62.png" crc="4141302162" ref="index"/>
+    <file name="plakat_qr-51-crop-u9162.jpg" crc="206960382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u981-62.png" crc="3939425976" ref="index"/>
+    <file name="plakat_qr-53-crop-u9262.jpg" crc="346122032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u984-42.png" crc="65516733" ref="index"/>
+    <file name="plakat_qr-55-crop-u9362.jpg" crc="3854853491" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u987-42.png" crc="4059879725" ref="index"/>
+    <file name="plakat_qr-57-crop-u9462.jpg" crc="4284362149" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u990-62.png" crc="4285307270" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3907306799" seo="true" mt="1622413150943" redirect="true"/>
+  <file name="posters.html" crc="4210702000" seo="true" mt="1622413150943" redirect="true"/>
+  <file name="social-media.html" crc="184130891" seo="true" mt="1622413150943" redirect="true"/>
+  <file name="national-debt.html" crc="356056521" seo="true" mt="1622413150943" redirect="true"/>
+  <file name="culture.html" crc="4158466278" seo="true" mt="1622413150943" redirect="true"/>
+  <file name="fake-news.html" crc="4228884737" seo="true" mt="1622413150943" redirect="true"/>
+  <file name="climate-change.html" crc="316598402" seo="true" mt="1622413150943" redirect="true"/>
+  <file name="conspiracy.html" crc="331381270" seo="true" mt="1622413150943" redirect="true"/>
+</manifest>
